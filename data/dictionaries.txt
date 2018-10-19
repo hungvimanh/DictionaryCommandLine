@@ -1,0 +1,7 @@
+apple	quả táo
+drink	uống
+eat	ăn
+hello	xin chào
+help	giúp đỡ
+something	gì đó
+test	kiểm tra
